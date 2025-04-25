@@ -1,0 +1,5 @@
+This is an example of text with IP addresses:
+192.168.01.45 is one of the IP addresses.
+Another IP address: REPLACEMENT
+Another IP: REPLACEMENT
+Another text without an IP address.

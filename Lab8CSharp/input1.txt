@@ -1,0 +1,5 @@
+This is an example of text with IP addresses:
+192.168.01.45 is one of the IP addresses.
+Another IP address: 10.AC.5F.32
+Another IP: FF.1A.3E.7B
+Another text without an IP address.
